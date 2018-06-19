@@ -1,0 +1,4 @@
+[[package]]
+name = "rust_docker_barebones"
+version = "0.1.0"
+
